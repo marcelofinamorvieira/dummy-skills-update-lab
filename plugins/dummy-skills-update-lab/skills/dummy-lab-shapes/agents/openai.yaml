@@ -1,0 +1,6 @@
+interface:
+  display_name: "Dummy Lab: Shapes"
+  short_description: "Version probe for dummy lab shapes"
+  default_prompt: "Use $dummy-lab-shapes and run its probe."
+policy:
+  allow_implicit_invocation: true

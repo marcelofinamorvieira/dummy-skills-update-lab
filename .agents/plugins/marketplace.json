@@ -1,0 +1,20 @@
+{
+  "name": "dummy-skills-lab",
+  "interface": {
+    "displayName": "Dummy Skills Lab"
+  },
+  "plugins": [
+    {
+      "name": "dummy-skills-update-lab",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dummy-skills-update-lab"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

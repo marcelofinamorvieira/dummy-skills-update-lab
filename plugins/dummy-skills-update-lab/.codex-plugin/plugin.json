@@ -1,0 +1,21 @@
+{
+  "name": "dummy-skills-update-lab",
+  "version": "1.0.0",
+  "description": "Four harmless probe skills for testing skill and plugin updates.",
+  "author": {
+    "name": "Marcelo Finamor Vieira"
+  },
+  "repository": "https://github.com/marcelofinamorvieira/dummy-skills-update-lab",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Dummy Skills Update Lab",
+    "shortDescription": "Four harmless version probes for update testing.",
+    "longDescription": "Install four small skills, confirm their v1 responses, and observe a later migration to one unified skill.",
+    "developerName": "Marcelo Finamor Vieira",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Run the Dummy Skills Update Lab colors probe."
+    ]
+  }
+}
