@@ -1,6 +1,0 @@
-interface:
-  display_name: "Dummy Lab: Fruit"
-  short_description: "Version probe for dummy lab fruit"
-  default_prompt: "Use $dummy-lab-fruit and run its probe."
-policy:
-  allow_implicit_invocation: true

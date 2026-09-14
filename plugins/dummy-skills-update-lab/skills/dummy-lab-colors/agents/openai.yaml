@@ -1,6 +1,0 @@
-interface:
-  display_name: "Dummy Lab: Colors"
-  short_description: "Version probe for dummy lab colors"
-  default_prompt: "Use $dummy-lab-colors and run its probe."
-policy:
-  allow_implicit_invocation: true

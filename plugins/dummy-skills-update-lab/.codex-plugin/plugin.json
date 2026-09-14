@@ -1,7 +1,7 @@
 {
   "name": "dummy-skills-update-lab",
-  "version": "1.0.0",
-  "description": "Four harmless probe skills for testing skill and plugin updates.",
+  "version": "2.0.0",
+  "description": "One unified probe skill for testing skill and plugin updates.",
   "author": {
     "name": "Marcelo Finamor Vieira"
   },
@@ -9,8 +9,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Dummy Skills Update Lab",
-    "shortDescription": "Four harmless version probes for update testing.",
-    "longDescription": "Install four small skills, confirm their v1 responses, and observe a later migration to one unified skill.",
+    "shortDescription": "One unified version probe skill for update testing.",
+    "longDescription": "Version 2 replaces four standalone skills with one dummy-lab skill and four topic references.",
     "developerName": "Marcelo Finamor Vieira",
     "category": "Productivity",
     "capabilities": [],

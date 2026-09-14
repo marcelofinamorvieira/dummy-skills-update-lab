@@ -1,6 +1,0 @@
-interface:
-  display_name: "Dummy Lab: Animals"
-  short_description: "Version probe for dummy lab animals"
-  default_prompt: "Use $dummy-lab-animals and run its probe."
-policy:
-  allow_implicit_invocation: true

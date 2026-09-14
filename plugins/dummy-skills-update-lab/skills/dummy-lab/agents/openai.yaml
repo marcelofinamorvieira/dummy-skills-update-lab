@@ -1,0 +1,6 @@
+interface:
+  display_name: "Dummy Lab"
+  short_description: "Unified version probes for the dummy lab"
+  default_prompt: "Use $dummy-lab and run the colors probe."
+policy:
+  allow_implicit_invocation: true
